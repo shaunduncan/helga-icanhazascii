@@ -1,7 +1,7 @@
 helga-icanhazascii
 ==================
 
-A match plugin that will show ASCII art for certain keywords. This plugin is rate-limited at a
+A helga match plugin that will show ASCII art for certain keywords. This plugin is rate-limited at a
 maximum of one response per channel every 30 seconds. ASCII art includes:
 
 poniez::
